@@ -9,7 +9,7 @@ const App = () => {
       mixedContentMode="always"
       originWhitelist={['*']}
       cacheEnabled={false}
-      source={{ uri: 'http://co4growth.com/' }}
+      source={{ uri: 'http://103.92.26.252:2088/' }}
     />)
 };
 
